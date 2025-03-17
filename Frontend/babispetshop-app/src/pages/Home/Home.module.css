@@ -1,0 +1,12 @@
+.homeContainer {
+    background-color: #8E5D52;
+    color: white;
+    font-weight: 600;
+    box-shadow: 1px 1px 10px #8E5D52;
+    /* min-height: 200px; */
+    margin: 0;
+}
+
+.ServiceBtn {
+    color: #BE958B;
+}

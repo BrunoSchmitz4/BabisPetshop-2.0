@@ -1,0 +1,32 @@
+.headerContainer {
+    background-color: #A78A72;
+    box-shadow: 1px 1px 4px black;
+    position: relative;
+}
+
+.welcomeMsg {
+    color: white;
+    width: 100%;
+}
+
+.headerNavbar {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    width: max-content;
+}
+
+.headerBox {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.headerAnchor {
+    text-align: center;
+    margin: 4px;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+}
